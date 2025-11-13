@@ -114,46 +114,10 @@ through SQL, Power BI, and Python. The dashboards and visualizations provide a u
 analytical tool for hospital administrators to monitor operations and improve service
 delivery.
 
-### 12. Appendix
-#### ERD
-
-<img width="929" height="554" alt="image" src="https://github.com/user-attachments/assets/441c9e8d-ede4-4b3c-a6f0-96db1b93af03" />
-
-#### there is so many SQL Queris just check sample Snapshots
-
-<img width="466" height="320" alt="image" src="https://github.com/user-attachments/assets/a2ee8ae0-34a5-4f6a-b849-644339e70d57" />
-
-<img width="482" height="319" alt="image" src="https://github.com/user-attachments/assets/b3f75089-363d-472b-9f28-08cab80bbf20" />
-
-<img width="941" height="160" alt="image" src="https://github.com/user-attachments/assets/c0c8d7e6-a4e3-4e87-87c7-b28ea718cef4" />
-
-<img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/3117d783-2431-4b3a-bdee-8fa20c93d3c9" />
-
-<img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/08f16ce8-372c-40b7-b7a6-3cfb94cb454c" />
-
-
 ### Power BI Dashboard Images
 <img width="1189" height="667" alt="Dashboard" src="https://github.com/user-attachments/assets/089baea3-4cc4-4e1d-b736-780d23ddfa79" />
 
-### Python Graph Outputs
-
-<img width="617" height="290" alt="image" src="https://github.com/user-attachments/assets/f46cd564-35cc-4032-9b61-e4c123359df3" />
-
-<img width="438" height="350" alt="image" src="https://github.com/user-attachments/assets/dcd8af40-26f9-4488-b0be-81214e57ac99" />
-
-<img width="598" height="337" alt="image" src="https://github.com/user-attachments/assets/4f121746-41e4-4db0-b67b-84add1a3e321" />
-
-<img width="643" height="310" alt="image" src="https://github.com/user-attachments/assets/3aa3489e-e81f-40a5-9aa7-454470d7f6bc" />
-
-<img width="582" height="366" alt="image" src="https://github.com/user-attachments/assets/1f337bda-de93-4496-a081-b3323c16fe98" />
-
-<img width="680" height="335" alt="image" src="https://github.com/user-attachments/assets/ea9eba7f-2f1c-4f40-b18c-6c88ae1c9c65" />
 
 
 
 
-
- 5)
-
-
- 6)
